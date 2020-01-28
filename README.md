@@ -21,5 +21,12 @@ The collection of cheetsheet for you to practise and revise.
 14. Math Statistics
 15. Neural Networks
 16. Pyspark
+17. Super Machine Learning 
+18. Tensorflow
+19. Time Series in R
+20. Pytorch
+21. R for Data Science
+22. Glossary list of ML terms
+23. Mathematics formulae that changed the world
 
-I will keep updating the list.  Fork it to get the updates
+I will keep updating the list.  Follow me and watch it to get the updates
